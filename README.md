@@ -1,2 +1,2 @@
 # practice_grpc
-gRPCを
+gRPCを勉強しました。
